@@ -1,3 +1,4 @@
+import 'lib.dart';
 import 'package:equatable/equatable.dart';
 
 class Point extends Equatable {
